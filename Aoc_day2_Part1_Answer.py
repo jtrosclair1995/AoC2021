@@ -17,24 +17,3 @@ for i in values:
         y -= int(i[1])
 
 print(x*y)
-
-
-
-
-
-   
-
-   
-   
-
-
-
-
-
-
-
-
-
-
-
-
